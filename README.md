@@ -1,4 +1,12 @@
+## UPDATE - This script doesn't work anymore, due to changes in the Instagram API
+**Instagram has made changes in their API that require developers to apply to get permissions to use functionalities publicly.**
+The default is now to work in a sandboxed version of the API. The developers will only be able to access their own or fellow testers/developers accounts without submitting their apps for review.
+Basicly it means that you will not be able to grow a following, because the script will only be able to interact with your account.
+
+[Read more about the new sandbox here](https://www.instagram.com/developer/sandbox/)
+
 # Instagram-growth
+
 Grow your Instagram follower base using this script.
 This will use your own account to get real followers that interact with the tags your choose.
 
